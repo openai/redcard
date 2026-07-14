@@ -1,0 +1,7 @@
+interface:
+  display_name: "Red Card"
+  short_description: "Run Red Card from any Codex task"
+  default_prompt: "Use $redcard to run the installed Red Card runtime from this task."
+
+policy:
+  allow_implicit_invocation: false

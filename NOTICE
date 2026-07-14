@@ -1,0 +1,25 @@
+Red Card
+Copyright 2026 OpenAI
+
+This product is licensed under the Apache License, Version 2.0.
+
+The character artwork in assets/sprites and the README images in assets
+are original first-party project assets. Unless otherwise noted, they are
+distributed under the same Apache-2.0 license as the rest of this project.
+
+assets/referee-whistle.wav is "One Blast Whistle.wav" by tommon, used
+unchanged from https://freesound.org/s/40754/ under the Creative Commons
+Attribution-NonCommercial 3.0 license. See assets/ATTRIBUTION.md for details.
+This third-party asset is not covered by the project's Apache-2.0 license.
+
+OpenAI and Codex are trademarks of OpenAI, L.L.C. The Apache License does not
+grant permission to use OpenAI trademarks except as required for reasonable
+and customary use in describing the origin of the project.
+
+Google Chrome, Google Meet, Google Calendar, and Gmail are trademarks of
+Google LLC. This project is not affiliated with or endorsed by Google LLC.
+
+Runtime dependencies are installed separately and remain subject to their own
+licenses and notices, including OpenCV under Apache-2.0 and NumPy under the
+BSD 3-Clause License. See the dependency distributions for their complete
+license terms and notices.
